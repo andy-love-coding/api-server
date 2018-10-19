@@ -17,4 +17,4 @@
 - `services` 服务层，业务逻辑代码在这一层编写，通过不同的接口获取的数据转换成统一的前端所需要的数据
 - `app.js` 主项目入口文件
 - `package.json` 项目配置文件
-- 下载后，在根目录新建3个文件夹 ：`tmp_uploads` 、 `uploads` 、 `uploads/goodspics`
+- 下载后，在根目录新建2个文件夹 ： `uploads` 、 `uploads/goodspics`
